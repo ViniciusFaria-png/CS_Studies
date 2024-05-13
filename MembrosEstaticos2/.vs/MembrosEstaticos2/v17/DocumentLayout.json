@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\Projetos\\MembrosEstaticos2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E835663-ED8F-449E-9F56-40D7CA0C4D1B}|MembrosEstaticos2\\MembrosEstaticos2.csproj|d:\\repos\\projetos\\membrosestaticos2\\membrosestaticos2\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E835663-ED8F-449E-9F56-40D7CA0C4D1B}|MembrosEstaticos2\\MembrosEstaticos2.csproj|solutionrelative:membrosestaticos2\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E835663-ED8F-449E-9F56-40D7CA0C4D1B}|MembrosEstaticos2\\MembrosEstaticos2.csproj|d:\\repos\\projetos\\membrosestaticos2\\membrosestaticos2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E835663-ED8F-449E-9F56-40D7CA0C4D1B}|MembrosEstaticos2\\MembrosEstaticos2.csproj|solutionrelative:membrosestaticos2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "D:\\repos\\Projetos\\MembrosEstaticos2\\MembrosEstaticos2\\Calculadora.cs",
+              "RelativeDocumentMoniker": "MembrosEstaticos2\\Calculadora.cs",
+              "ToolTip": "D:\\repos\\Projetos\\MembrosEstaticos2\\MembrosEstaticos2\\Calculadora.cs",
+              "RelativeToolTip": "MembrosEstaticos2\\Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:00:13.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Projetos\\MembrosEstaticos2\\MembrosEstaticos2\\Program.cs",
+              "RelativeDocumentMoniker": "MembrosEstaticos2\\Program.cs",
+              "ToolTip": "D:\\repos\\Projetos\\MembrosEstaticos2\\MembrosEstaticos2\\Program.cs*",
+              "RelativeToolTip": "MembrosEstaticos2\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:59:35.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

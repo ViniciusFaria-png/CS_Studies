@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\Projetos\\ClasseExercicio3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A307CA48-999F-4C8B-A6AC-D5B9397414E9}|ClasseExercicio3\\ClasseExercicio3.csproj|d:\\repos\\projetos\\classeexercicio3\\classeexercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A307CA48-999F-4C8B-A6AC-D5B9397414E9}|ClasseExercicio3\\ClasseExercicio3.csproj|solutionrelative:classeexercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A307CA48-999F-4C8B-A6AC-D5B9397414E9}|ClasseExercicio3\\ClasseExercicio3.csproj|d:\\repos\\projetos\\classeexercicio3\\classeexercicio3\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A307CA48-999F-4C8B-A6AC-D5B9397414E9}|ClasseExercicio3\\ClasseExercicio3.csproj|solutionrelative:classeexercicio3\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "D:\\repos\\Projetos\\ClasseExercicio3\\ClasseExercicio3\\Funcionario.cs",
+              "RelativeDocumentMoniker": "ClasseExercicio3\\Funcionario.cs",
+              "ToolTip": "D:\\repos\\Projetos\\ClasseExercicio3\\ClasseExercicio3\\Funcionario.cs",
+              "RelativeToolTip": "ClasseExercicio3\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:24:03.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Projetos\\ClasseExercicio3\\ClasseExercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "ClasseExercicio3\\Program.cs",
+              "ToolTip": "D:\\repos\\Projetos\\ClasseExercicio3\\ClasseExercicio3\\Program.cs",
+              "RelativeToolTip": "ClasseExercicio3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:22:41.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

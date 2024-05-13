@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\Projetos\\MembrosEstaticosEx1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6D554C-B71E-4B16-91A2-10B909C8DB52}|MembrosEstaticosEx1\\MembrosEstaticosEx1.csproj|d:\\repos\\projetos\\membrosestaticosex1\\membrosestaticosex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6D554C-B71E-4B16-91A2-10B909C8DB52}|MembrosEstaticosEx1\\MembrosEstaticosEx1.csproj|solutionrelative:membrosestaticosex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6D554C-B71E-4B16-91A2-10B909C8DB52}|MembrosEstaticosEx1\\MembrosEstaticosEx1.csproj|d:\\repos\\projetos\\membrosestaticosex1\\membrosestaticosex1\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6D554C-B71E-4B16-91A2-10B909C8DB52}|MembrosEstaticosEx1\\MembrosEstaticosEx1.csproj|solutionrelative:membrosestaticosex1\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConversorDeMoeda.cs",
+              "DocumentMoniker": "D:\\repos\\Projetos\\MembrosEstaticosEx1\\MembrosEstaticosEx1\\ConversorDeMoeda.cs",
+              "RelativeDocumentMoniker": "MembrosEstaticosEx1\\ConversorDeMoeda.cs",
+              "ToolTip": "D:\\repos\\Projetos\\MembrosEstaticosEx1\\MembrosEstaticosEx1\\ConversorDeMoeda.cs",
+              "RelativeToolTip": "MembrosEstaticosEx1\\ConversorDeMoeda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:07:54.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Projetos\\MembrosEstaticosEx1\\MembrosEstaticosEx1\\Program.cs",
+              "RelativeDocumentMoniker": "MembrosEstaticosEx1\\Program.cs",
+              "ToolTip": "D:\\repos\\Projetos\\MembrosEstaticosEx1\\MembrosEstaticosEx1\\Program.cs",
+              "RelativeToolTip": "MembrosEstaticosEx1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:07:07.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\repos\Projetos\Ex2\Ex2\bin\Debug\net8.0\Ex2.exe
+D:\repos\Projetos\Ex2\Ex2\bin\Debug\net8.0\Ex2.deps.json
+D:\repos\Projetos\Ex2\Ex2\bin\Debug\net8.0\Ex2.runtimeconfig.json
+D:\repos\Projetos\Ex2\Ex2\bin\Debug\net8.0\Ex2.dll
+D:\repos\Projetos\Ex2\Ex2\bin\Debug\net8.0\Ex2.pdb
+D:\repos\Projetos\Ex2\Ex2\obj\Debug\net8.0\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Projetos\Ex2\Ex2\obj\Debug\net8.0\Ex2.AssemblyInfoInputs.cache
+D:\repos\Projetos\Ex2\Ex2\obj\Debug\net8.0\Ex2.AssemblyInfo.cs
+D:\repos\Projetos\Ex2\Ex2\obj\Debug\net8.0\Ex2.csproj.CoreCompileInputs.cache
+D:\repos\Projetos\Ex2\Ex2\obj\Debug\net8.0\Ex2.dll
+D:\repos\Projetos\Ex2\Ex2\obj\Debug\net8.0\refint\Ex2.dll
+D:\repos\Projetos\Ex2\Ex2\obj\Debug\net8.0\Ex2.pdb
+D:\repos\Projetos\Ex2\Ex2\obj\Debug\net8.0\Ex2.genruntimeconfig.cache
+D:\repos\Projetos\Ex2\Ex2\obj\Debug\net8.0\ref\Ex2.dll

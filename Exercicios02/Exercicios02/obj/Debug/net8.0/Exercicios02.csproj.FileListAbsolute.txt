@@ -1,0 +1,14 @@
+D:\repos\Projetos\Exercicios02\Exercicios02\bin\Debug\net8.0\Exercicios02.exe
+D:\repos\Projetos\Exercicios02\Exercicios02\bin\Debug\net8.0\Exercicios02.deps.json
+D:\repos\Projetos\Exercicios02\Exercicios02\bin\Debug\net8.0\Exercicios02.runtimeconfig.json
+D:\repos\Projetos\Exercicios02\Exercicios02\bin\Debug\net8.0\Exercicios02.dll
+D:\repos\Projetos\Exercicios02\Exercicios02\bin\Debug\net8.0\Exercicios02.pdb
+D:\repos\Projetos\Exercicios02\Exercicios02\obj\Debug\net8.0\Exercicios02.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Projetos\Exercicios02\Exercicios02\obj\Debug\net8.0\Exercicios02.AssemblyInfoInputs.cache
+D:\repos\Projetos\Exercicios02\Exercicios02\obj\Debug\net8.0\Exercicios02.AssemblyInfo.cs
+D:\repos\Projetos\Exercicios02\Exercicios02\obj\Debug\net8.0\Exercicios02.csproj.CoreCompileInputs.cache
+D:\repos\Projetos\Exercicios02\Exercicios02\obj\Debug\net8.0\Exercicios02.dll
+D:\repos\Projetos\Exercicios02\Exercicios02\obj\Debug\net8.0\refint\Exercicios02.dll
+D:\repos\Projetos\Exercicios02\Exercicios02\obj\Debug\net8.0\Exercicios02.pdb
+D:\repos\Projetos\Exercicios02\Exercicios02\obj\Debug\net8.0\Exercicios02.genruntimeconfig.cache
+D:\repos\Projetos\Exercicios02\Exercicios02\obj\Debug\net8.0\ref\Exercicios02.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\Projetos\\AulaStructs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AEFA4C-F40C-4EC4-BD2B-3FBD7AFB96FB}|AulaStructs\\AulaStructs.csproj|d:\\repos\\projetos\\aulastructs\\aulastructs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8AEFA4C-F40C-4EC4-BD2B-3FBD7AFB96FB}|AulaStructs\\AulaStructs.csproj|solutionrelative:aulastructs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AEFA4C-F40C-4EC4-BD2B-3FBD7AFB96FB}|AulaStructs\\AulaStructs.csproj|d:\\repos\\projetos\\aulastructs\\aulastructs\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8AEFA4C-F40C-4EC4-BD2B-3FBD7AFB96FB}|AulaStructs\\AulaStructs.csproj|solutionrelative:aulastructs\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estudante.cs",
+              "DocumentMoniker": "D:\\repos\\Projetos\\AulaStructs\\AulaStructs\\Estudante.cs",
+              "RelativeDocumentMoniker": "AulaStructs\\Estudante.cs",
+              "ToolTip": "D:\\repos\\Projetos\\AulaStructs\\AulaStructs\\Estudante.cs",
+              "RelativeToolTip": "AulaStructs\\Estudante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:05:28.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Projetos\\AulaStructs\\AulaStructs\\Program.cs",
+              "RelativeDocumentMoniker": "AulaStructs\\Program.cs",
+              "ToolTip": "D:\\repos\\Projetos\\AulaStructs\\AulaStructs\\Program.cs",
+              "RelativeToolTip": "AulaStructs\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T11:23:07.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

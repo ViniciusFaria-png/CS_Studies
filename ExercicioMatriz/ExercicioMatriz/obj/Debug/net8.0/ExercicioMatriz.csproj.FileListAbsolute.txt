@@ -1,0 +1,14 @@
+D:\repos\Projetos\ExercicioMatriz\ExercicioMatriz\bin\Debug\net8.0\ExercicioMatriz.exe
+D:\repos\Projetos\ExercicioMatriz\ExercicioMatriz\bin\Debug\net8.0\ExercicioMatriz.deps.json
+D:\repos\Projetos\ExercicioMatriz\ExercicioMatriz\bin\Debug\net8.0\ExercicioMatriz.runtimeconfig.json
+D:\repos\Projetos\ExercicioMatriz\ExercicioMatriz\bin\Debug\net8.0\ExercicioMatriz.dll
+D:\repos\Projetos\ExercicioMatriz\ExercicioMatriz\bin\Debug\net8.0\ExercicioMatriz.pdb
+D:\repos\Projetos\ExercicioMatriz\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Projetos\ExercicioMatriz\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.AssemblyInfoInputs.cache
+D:\repos\Projetos\ExercicioMatriz\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.AssemblyInfo.cs
+D:\repos\Projetos\ExercicioMatriz\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.csproj.CoreCompileInputs.cache
+D:\repos\Projetos\ExercicioMatriz\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.dll
+D:\repos\Projetos\ExercicioMatriz\ExercicioMatriz\obj\Debug\net8.0\refint\ExercicioMatriz.dll
+D:\repos\Projetos\ExercicioMatriz\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.pdb
+D:\repos\Projetos\ExercicioMatriz\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.genruntimeconfig.cache
+D:\repos\Projetos\ExercicioMatriz\ExercicioMatriz\obj\Debug\net8.0\ref\ExercicioMatriz.dll

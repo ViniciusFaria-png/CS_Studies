@@ -1,0 +1,14 @@
+D:\repos\Projetos\MembrosEstaticosEx1\MembrosEstaticosEx1\bin\Debug\net8.0\MembrosEstaticosEx1.exe
+D:\repos\Projetos\MembrosEstaticosEx1\MembrosEstaticosEx1\bin\Debug\net8.0\MembrosEstaticosEx1.deps.json
+D:\repos\Projetos\MembrosEstaticosEx1\MembrosEstaticosEx1\bin\Debug\net8.0\MembrosEstaticosEx1.runtimeconfig.json
+D:\repos\Projetos\MembrosEstaticosEx1\MembrosEstaticosEx1\bin\Debug\net8.0\MembrosEstaticosEx1.dll
+D:\repos\Projetos\MembrosEstaticosEx1\MembrosEstaticosEx1\bin\Debug\net8.0\MembrosEstaticosEx1.pdb
+D:\repos\Projetos\MembrosEstaticosEx1\MembrosEstaticosEx1\obj\Debug\net8.0\MembrosEstaticosEx1.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Projetos\MembrosEstaticosEx1\MembrosEstaticosEx1\obj\Debug\net8.0\MembrosEstaticosEx1.AssemblyInfoInputs.cache
+D:\repos\Projetos\MembrosEstaticosEx1\MembrosEstaticosEx1\obj\Debug\net8.0\MembrosEstaticosEx1.AssemblyInfo.cs
+D:\repos\Projetos\MembrosEstaticosEx1\MembrosEstaticosEx1\obj\Debug\net8.0\MembrosEstaticosEx1.csproj.CoreCompileInputs.cache
+D:\repos\Projetos\MembrosEstaticosEx1\MembrosEstaticosEx1\obj\Debug\net8.0\MembrosEstaticosEx1.dll
+D:\repos\Projetos\MembrosEstaticosEx1\MembrosEstaticosEx1\obj\Debug\net8.0\refint\MembrosEstaticosEx1.dll
+D:\repos\Projetos\MembrosEstaticosEx1\MembrosEstaticosEx1\obj\Debug\net8.0\MembrosEstaticosEx1.pdb
+D:\repos\Projetos\MembrosEstaticosEx1\MembrosEstaticosEx1\obj\Debug\net8.0\MembrosEstaticosEx1.genruntimeconfig.cache
+D:\repos\Projetos\MembrosEstaticosEx1\MembrosEstaticosEx1\obj\Debug\net8.0\ref\MembrosEstaticosEx1.dll

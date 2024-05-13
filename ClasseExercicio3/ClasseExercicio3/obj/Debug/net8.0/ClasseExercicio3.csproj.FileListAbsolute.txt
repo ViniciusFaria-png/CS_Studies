@@ -1,0 +1,14 @@
+D:\repos\Projetos\ClasseExercicio3\ClasseExercicio3\bin\Debug\net8.0\ClasseExercicio3.exe
+D:\repos\Projetos\ClasseExercicio3\ClasseExercicio3\bin\Debug\net8.0\ClasseExercicio3.deps.json
+D:\repos\Projetos\ClasseExercicio3\ClasseExercicio3\bin\Debug\net8.0\ClasseExercicio3.runtimeconfig.json
+D:\repos\Projetos\ClasseExercicio3\ClasseExercicio3\bin\Debug\net8.0\ClasseExercicio3.dll
+D:\repos\Projetos\ClasseExercicio3\ClasseExercicio3\bin\Debug\net8.0\ClasseExercicio3.pdb
+D:\repos\Projetos\ClasseExercicio3\ClasseExercicio3\obj\Debug\net8.0\ClasseExercicio3.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Projetos\ClasseExercicio3\ClasseExercicio3\obj\Debug\net8.0\ClasseExercicio3.AssemblyInfoInputs.cache
+D:\repos\Projetos\ClasseExercicio3\ClasseExercicio3\obj\Debug\net8.0\ClasseExercicio3.AssemblyInfo.cs
+D:\repos\Projetos\ClasseExercicio3\ClasseExercicio3\obj\Debug\net8.0\ClasseExercicio3.csproj.CoreCompileInputs.cache
+D:\repos\Projetos\ClasseExercicio3\ClasseExercicio3\obj\Debug\net8.0\ClasseExercicio3.dll
+D:\repos\Projetos\ClasseExercicio3\ClasseExercicio3\obj\Debug\net8.0\refint\ClasseExercicio3.dll
+D:\repos\Projetos\ClasseExercicio3\ClasseExercicio3\obj\Debug\net8.0\ClasseExercicio3.pdb
+D:\repos\Projetos\ClasseExercicio3\ClasseExercicio3\obj\Debug\net8.0\ClasseExercicio3.genruntimeconfig.cache
+D:\repos\Projetos\ClasseExercicio3\ClasseExercicio3\obj\Debug\net8.0\ref\ClasseExercicio3.dll

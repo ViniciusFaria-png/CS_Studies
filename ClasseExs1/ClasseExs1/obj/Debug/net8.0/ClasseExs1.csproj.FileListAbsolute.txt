@@ -1,0 +1,14 @@
+D:\repos\Projetos\ClasseExs1\ClasseExs1\bin\Debug\net8.0\ClasseExs1.exe
+D:\repos\Projetos\ClasseExs1\ClasseExs1\bin\Debug\net8.0\ClasseExs1.deps.json
+D:\repos\Projetos\ClasseExs1\ClasseExs1\bin\Debug\net8.0\ClasseExs1.runtimeconfig.json
+D:\repos\Projetos\ClasseExs1\ClasseExs1\bin\Debug\net8.0\ClasseExs1.dll
+D:\repos\Projetos\ClasseExs1\ClasseExs1\bin\Debug\net8.0\ClasseExs1.pdb
+D:\repos\Projetos\ClasseExs1\ClasseExs1\obj\Debug\net8.0\ClasseExs1.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Projetos\ClasseExs1\ClasseExs1\obj\Debug\net8.0\ClasseExs1.AssemblyInfoInputs.cache
+D:\repos\Projetos\ClasseExs1\ClasseExs1\obj\Debug\net8.0\ClasseExs1.AssemblyInfo.cs
+D:\repos\Projetos\ClasseExs1\ClasseExs1\obj\Debug\net8.0\ClasseExs1.csproj.CoreCompileInputs.cache
+D:\repos\Projetos\ClasseExs1\ClasseExs1\obj\Debug\net8.0\ClasseExs1.dll
+D:\repos\Projetos\ClasseExs1\ClasseExs1\obj\Debug\net8.0\refint\ClasseExs1.dll
+D:\repos\Projetos\ClasseExs1\ClasseExs1\obj\Debug\net8.0\ClasseExs1.pdb
+D:\repos\Projetos\ClasseExs1\ClasseExs1\obj\Debug\net8.0\ClasseExs1.genruntimeconfig.cache
+D:\repos\Projetos\ClasseExs1\ClasseExs1\obj\Debug\net8.0\ref\ClasseExs1.dll

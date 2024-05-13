@@ -1,0 +1,14 @@
+D:\repos\Projetos\AulaStructs\AulaStructs\bin\Debug\net8.0\AulaStructs.exe
+D:\repos\Projetos\AulaStructs\AulaStructs\bin\Debug\net8.0\AulaStructs.deps.json
+D:\repos\Projetos\AulaStructs\AulaStructs\bin\Debug\net8.0\AulaStructs.runtimeconfig.json
+D:\repos\Projetos\AulaStructs\AulaStructs\bin\Debug\net8.0\AulaStructs.dll
+D:\repos\Projetos\AulaStructs\AulaStructs\bin\Debug\net8.0\AulaStructs.pdb
+D:\repos\Projetos\AulaStructs\AulaStructs\obj\Debug\net8.0\AulaStructs.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Projetos\AulaStructs\AulaStructs\obj\Debug\net8.0\AulaStructs.AssemblyInfoInputs.cache
+D:\repos\Projetos\AulaStructs\AulaStructs\obj\Debug\net8.0\AulaStructs.AssemblyInfo.cs
+D:\repos\Projetos\AulaStructs\AulaStructs\obj\Debug\net8.0\AulaStructs.csproj.CoreCompileInputs.cache
+D:\repos\Projetos\AulaStructs\AulaStructs\obj\Debug\net8.0\AulaStructs.dll
+D:\repos\Projetos\AulaStructs\AulaStructs\obj\Debug\net8.0\refint\AulaStructs.dll
+D:\repos\Projetos\AulaStructs\AulaStructs\obj\Debug\net8.0\AulaStructs.pdb
+D:\repos\Projetos\AulaStructs\AulaStructs\obj\Debug\net8.0\AulaStructs.genruntimeconfig.cache
+D:\repos\Projetos\AulaStructs\AulaStructs\obj\Debug\net8.0\ref\AulaStructs.dll
